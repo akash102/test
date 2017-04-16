@@ -3,4 +3,3 @@ if hungry=="yupp":
     print "eat puff"
 else:
     print "sui ja"
-    print "samosa"
