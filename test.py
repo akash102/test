@@ -5,4 +5,5 @@ else:
     newb=raw_input("maj ma")
     if newb=="yes":
         print "jalsa kar"
+        print "jagi ja"
 
